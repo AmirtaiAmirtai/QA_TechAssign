@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA_project\QA_project\bin\Debug\net6.0\QA_project.exe
+C:\Users\user\Desktop\QA_project\QA_project\bin\Debug\net6.0\QA_project.deps.json
+C:\Users\user\Desktop\QA_project\QA_project\bin\Debug\net6.0\QA_project.runtimeconfig.json
+C:\Users\user\Desktop\QA_project\QA_project\bin\Debug\net6.0\QA_project.dll
+C:\Users\user\Desktop\QA_project\QA_project\bin\Debug\net6.0\QA_project.pdb
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\QA_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\QA_project.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\QA_project.AssemblyInfo.cs
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\QA_project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\QA_project.dll
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\refint\QA_project.dll
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\QA_project.pdb
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\QA_project.genruntimeconfig.cache
+C:\Users\user\Desktop\QA_project\QA_project\obj\Debug\net6.0\ref\QA_project.dll
